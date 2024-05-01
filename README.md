@@ -67,7 +67,7 @@ copy the resource configuration from the Google Play Developer Console, and past
 into the setup configuration in Unity.  To get the resources go to the Achievements
 tab, then click on "Get resources" on the bottom of the list.
 
-![click Get Resources](docgen/resourcesLink.png "Show the resources data")
+![click Get Resources](docgen/resourcygvesLink.png "Show the resources data")
 
 Then click the "Android section".
 
